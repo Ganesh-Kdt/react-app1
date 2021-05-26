@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["ReactDom","render","document","getElementById"],"mappings":"8GAAA,uCAEAA,IAASC,OAAO,wCAAgBC,SAASC,eAAe,W","file":"static/js/main.9ec67211.chunk.js","sourcesContent":["import React from \"react\"\r\nimport ReactDom from \"react-dom\"\r\nReactDom.render(<h1>ganesh</h1>,document.getElementById(\"root\"))"],"sourceRoot":""}
